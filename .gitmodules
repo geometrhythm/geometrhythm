@@ -1,0 +1,6 @@
+[submodule "geometrhythm-react"]
+	path = geometrhythm-react
+	url = git@github.com:cmloegcmluin/geometrhythm-react.git
+[submodule "geometrhythm-api"]
+	path = geometrhythm-api
+	url = git@github.com:cmloegcmluin/geometrhythm-api.git
