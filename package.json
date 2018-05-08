@@ -2,19 +2,14 @@
   "name": "geometrhythm-webapp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "sh ./bin/test.sh",
-    "start-selenium": "selenium-standalone start"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geometrhythm/geometrhythm-webapp.git"
+    "url": "git+https://github.com/geometrhythm/geometrhythm.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geometrhythm/geometrhythm-webapp/issues"
+    "url": "https://github.com/geometrhythm/geometrhythm/issues"
   },
-  "homepage": "https://github.com/geometrhythm/geometrhythm-webapp#readme"
+  "homepage": "https://github.com/geometrhythm/geometrhythm#readme"
 }
